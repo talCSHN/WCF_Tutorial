@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WCF_Server": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:65000;http://localhost:65001"
+    }
+  }
+}
